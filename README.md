@@ -3,8 +3,6 @@
 
 # Magic 8 Ball 🎱
 
-## What you will create
-
 A simple magical 8 ball app, using stateless and stateful Flutter widgets. 
 
 ![Finished App](https://github.com/londonappbrewery/Images/blob/master/8-ball-flutter-gif.gif)
